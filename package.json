@@ -13,7 +13,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "fs": "0.0.1-security",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "node-gyp": "^5.0.3",
     "path": "^0.12.7",
     "random-puppy": "^1.1.0",
